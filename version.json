@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5",
-  "download_url": "https://github.com/datnguyenn1231-bot/AuraSplit-Download/releases/download/v2.0.5/AuraSplit.Voice_2.0.5_x64-setup.exe",
-  "changelog": "v2.0.5: Smart worker routing, audio overwrite protection, manual update check"
+  "version": "2.0.7",
+  "download_url": "https://github.com/datnguyenn1231-bot/AuraSplit-Download/releases/download/v2.0.7/AuraSplit.Voice_2.0.7_x64-setup.exe",
+  "changelog": "v2.0.7: Minimax emotion-by-line workflow restored, APIVoice language and subtitle export added, UI polish"
 }
