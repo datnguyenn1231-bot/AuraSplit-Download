@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7",
-  "download_url": "https://github.com/datnguyenn1231-bot/AuraSplit-Download/releases/download/v2.0.7/AuraSplit.Voice_2.0.7_x64-setup.exe",
-  "changelog": "v2.0.7: Minimax emotion-by-line workflow restored, APIVoice language and subtitle export added, UI polish"
+  "version": "2.0.8",
+  "download_url": "https://github.com/datnguyenn1231-bot/AuraSplit-Download/releases/download/v2.0.8/AuraSplit.Voice_2.0.8_x64-setup.exe",
+  "changelog": "v2.0.8: Fix MiniMax emotion+sound tag (speech-2.8 model support), fix dialogue [Voice_N] parsing with sound tags, add Sound Tag per-row UI"
 }
